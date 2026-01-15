@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Card" load_steps=2 format=3 uid="uid://cm5020yfh4amg"]
+
+[ext_resource type="Script" uid="uid://buekbptmuj6hg" path="res://custom_resources/card.gd" id="1_oihn4"]
+
+[resource]
+script = ExtResource("1_oihn4")
+id = "composure_card"
+type = 1
+metadata/_custom_type_script = "uid://buekbptmuj6hg"
